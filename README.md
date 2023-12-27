@@ -61,7 +61,8 @@ Confirme se a configuração ficou ok usando o comando
 ```BASH
 ss -ptln
 ```
-![ss_-ptln.png](/zabbix/ss_-ptln.png)
+
+<!-- ![ss_-ptln.png](/zabbix/ss_-ptln.png)  -->
 
 ### Criar e configurar o Banco e usuarios
 
@@ -174,5 +175,7 @@ apt purge apache2
 para acessar utilize o ip do servidor Frontend
 > http://IP-SERVIDOR:8080/
 
-![zabbix6.png](/zabbix/zabbix6.png)
+<!-- ![zabbix6.png](/zabbix/zabbix6.png)  -->
+
+
 
